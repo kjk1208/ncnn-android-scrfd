@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\DGIST\Golf_job\6.App\1. appNow\ncnn-android-scrfd\app\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.

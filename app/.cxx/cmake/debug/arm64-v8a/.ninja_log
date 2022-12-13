@@ -1,0 +1,22 @@
+# ninja log v5
+22	1117	692194794	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	620f2591f3bb9242
+1	1126	692194794	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	86d7b23915058756
+11	1228	692194795	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	dba6a6ac3c4f6587
+25	1110	692195044	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	620f2591f3bb9242
+4	1145	692195044	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	86d7b23915058756
+15	1266	692195044	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	dba6a6ac3c4f6587
+15	1098	692195632	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	782a8fdd6d26cfa8
+27	1105	692195632	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	f3282f160d765404
+4	1270	692195632	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	b4269456a3b9ef8b
+1270	1581	692195632	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/arm64-v8a/libscrfdncnn.so	f14d50e87bb5ef8d
+5	1013	692199126	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	782a8fdd6d26cfa8
+1014	1292	692199126	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/arm64-v8a/libscrfdncnn.so	f14d50e87bb5ef8d
+4	992	692199229	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	f3282f160d765404
+993	1260	692199229	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/arm64-v8a/libscrfdncnn.so	f14d50e87bb5ef8d
+16	1045	692199783	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	f3282f160d765404
+4	1074	692199783	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	782a8fdd6d26cfa8
+1074	1375	692199783	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/arm64-v8a/libscrfdncnn.so	f14d50e87bb5ef8d
+4	976	692199840	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	782a8fdd6d26cfa8
+976	1245	692199840	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/arm64-v8a/libscrfdncnn.so	f14d50e87bb5ef8d
+5	1159	692200281	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	b4269456a3b9ef8b
+1160	1425	692200281	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/arm64-v8a/libscrfdncnn.so	f14d50e87bb5ef8d

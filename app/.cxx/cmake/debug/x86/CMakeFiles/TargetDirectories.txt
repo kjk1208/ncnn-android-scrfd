@@ -1,0 +1,3 @@
+C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/.cxx/cmake/debug/x86/CMakeFiles/scrfdncnn.dir
+C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

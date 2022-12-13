@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "13,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "388,105,57",
+                        "endLines": "16,12,2",
+                        "endColumns": "19,19,46",
+                        "endOffsets": "495,382,99"
+                    },
+                    "to": {
+                        "startLines": "2,6,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,437",
+                        "endLines": "5,15,16",
+                        "endColumns": "19,19,46",
+                        "endOffsets": "159,432,479"
+                    }
+                }
+            ]
+        }
+    ]
+}

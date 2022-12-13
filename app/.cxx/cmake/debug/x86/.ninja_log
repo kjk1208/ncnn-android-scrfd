@@ -1,0 +1,5 @@
+# ninja log v5
+25	924	692195633	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	c91dbf5d7a8bdcdd
+1	956	692195633	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	13029bb4f2fd2161
+13	1110	692195633	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	63f601394ec2384
+1110	1606	692195634	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/x86/libscrfdncnn.so	ea6c97d4e54f9d43

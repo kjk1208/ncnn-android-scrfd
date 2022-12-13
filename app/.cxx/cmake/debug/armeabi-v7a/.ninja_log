@@ -1,0 +1,20 @@
+# ninja log v5
+23	1037	692195042	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	794a0bb286234963
+11	1058	692195042	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	cfce47024b04d1b5
+0	1194	692195042	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	dff2218aa2b5aa75
+1195	1486	692195042	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libscrfdncnn.so	aad4d21da5e25152
+31	1032	692195630	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	4db264f6fcf64596
+16	1066	692195630	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	45d08ce723ca6eec
+4	1278	692195630	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	566fc270ccb5fa04
+1278	1585	692195630	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libscrfdncnn.so	f7ea92b8695d40dd
+4	902	692199127	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	45d08ce723ca6eec
+903	1185	692199128	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libscrfdncnn.so	f7ea92b8695d40dd
+4	872	692199230	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	4db264f6fcf64596
+872	1162	692199230	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libscrfdncnn.so	f7ea92b8695d40dd
+16	948	692199784	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	4db264f6fcf64596
+4	973	692199784	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	45d08ce723ca6eec
+973	1262	692199785	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libscrfdncnn.so	f7ea92b8695d40dd
+3	912	692199841	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	45d08ce723ca6eec
+912	1190	692199841	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libscrfdncnn.so	f7ea92b8695d40dd
+4	1053	692200282	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	566fc270ccb5fa04
+1053	1330	692200282	C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libscrfdncnn.so	f7ea92b8695d40dd

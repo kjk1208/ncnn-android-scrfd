@@ -1,0 +1,32 @@
+{
+  "buildFiles": [
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "C:\\Users\\DGIST\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\DGIST\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\compiler_id.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\DGIST\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DGIST\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\DGIST\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "scrfdncnn-Debug-armeabi-v7a": {
+      "artifactName": "scrfdncnn",
+      "buildCommand": "C:\\Users\\DGIST\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" scrfdncnn",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\DGIST\\Golf_job\\6.App\\1. appNow\\ncnn-android-scrfd\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libscrfdncnn.so"
+    }
+  }
+}
