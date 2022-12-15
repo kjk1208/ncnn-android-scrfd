@@ -48,33 +48,37 @@
 //// CONDITIONS OF ANY KIND, either express or implied. See the License for the
 //// specific language governing permissions and limitations under the License.
 
-#ifndef SCRFD_H
-#define SCRFD_H
+#ifndef LSTR_H
+#define LSTR_H
 
 #include <opencv2/core/core.hpp>
 
 #include <net.h>
 
-//struct FaceObject
-//{
-//    cv::Rect_<float> rect;
-//    cv::Point2f landmark[5];
-//    float prob;
-//};
+struct v_Lane_point
+{
+    float x;
+    float y;
+    float score;
+    int label;
+    bool ld_point;
+};
 
 class LSTR
 {
 public:
     int load(const char* modeltype, bool use_gpu = false);
     int load(AAssetManager* mgr, const char* modeltype, bool use_gpu = false);
-    int detect(const cv::Mat& rgb, std::vector<FaceObject>& faceobjects, float prob_threshold = 0.5f, float nms_threshold = 0.45f);
-    int draw(cv::Mat& rgb, const std::vector<FaceObject>& faceobjects);
+    int detect(const cv::Mat& rgb, std::vector<v_Lane_point>& faceobjects, float prob_threshold = 0.5f, float nms_threshold = 0.45f);
+    int draw(cv::Mat& rgb, const std::vector<v_Lane_point>& faceobjects);
+    std::vector<v_Lane_point> decode_infer(ncnn::Mat &data, float threshold);
 
 private:
     ncnn::Net lstr;
-    bool has_kps;
+    bool has_kps;           //이건 최적화에서 삭제해야함
     int input_size_w = 800 ;
     int input_size_h = 288 ;
+    float threshold = 0.8;
 };
 
 #endif // SCRFD_H
