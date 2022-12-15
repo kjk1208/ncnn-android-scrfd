@@ -215,7 +215,7 @@ int LSTR::draw(cv::Mat& rgb, const std::vector<v_Lane_point>& v_lane)
     for (size_t i = 0; i < v_lane.size(); i++)
     {
         const v_Lane_point& position = v_lane[i];
-        cv::circle(rgb,cv::Point(position.x, position.y),cv::Scalar(0,255,0));
+        cv::circle(rgb,cv::Point(position.x, position.y), 1, cv::Scalar(0,255,0));
     }
 
     return 0;

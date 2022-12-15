@@ -8,5 +8,4 @@ Call Stack (most recent call first):
   CMakeLists.txt:1 (project)
 
 
-Found OpenCV: C:/Users/DGIST/Golf_job/6.App/1. appNow/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-4.5.1-android (found version "4.5.1") found components:  core imgproc 
 Configuring done
